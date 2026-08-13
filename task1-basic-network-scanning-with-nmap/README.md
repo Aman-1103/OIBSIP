@@ -21,7 +21,7 @@
 
 ---
 
-**Step-by-Step Procedure**
+## Step-by-Step Procedure**
 
 ### - Step 1: Installing a Virtual Machine and Kali Linux
 
@@ -31,6 +31,15 @@ First, install **VirtualBox** or **VMware** on your system. Create a new virtual
 
 Open the Kali Linux terminal and run the **Nmap** command on the local host IP address as required by the project task. This will scan the target and display the requested network information.
 
-
+**-Basic Nmap Scan:**
 
 <img width="800" height="600" alt="Screenshot_2026-08-11_23_55_09" src="https://github.com/user-attachments/assets/64cecef4-002f-4d5b-b0cf-39ce9c3df3e8" />
+
+**-Service Version Nmap Scan:**
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/16cca6a4-4fb4-493c-9986-19bfd1a4ed07" />
+
+**-OS Detection Scan:**
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/b726440e-c200-4cfc-aaf4-f49076032618" />
+

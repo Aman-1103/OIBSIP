@@ -69,7 +69,7 @@ Open the Kali Linux terminal and run the **Nmap** command on the local host IP a
 
 ---
 
-### Conclusion
+### 4. Conclusion
 *This Nmap project provided practical experience in network scanning and basic cybersecurity reconnaissance. I installed Kali Linux and successfully used Nmap to perform different types of scans. The basic Nmap scan helped identify active hosts and open ports, while the `-sV` option provided information about the services and their versions running on those ports. I also explored the `-o` option to save scan results for further analysis and documentation. Overall, this project strengthened my understanding of network discovery, service enumeration, and security assessment. These skills are valuable for identifying potential vulnerabilities and supporting effective cybersecurity practices in real-world environments.*
 
 

@@ -54,7 +54,7 @@ A firewall is a security system that monitors and controls incoming and outgoing
 
 ---
 
-### Conclusion
+### 4.Conclusion
 
 This UFW project provided practical knowledge of Linux firewall configuration and network security. I learned how to install and enable UFW, allow SSH connections, deny HTTP traffic, and check firewall status using basic commands. I also understood how firewall rules control incoming network traffic and help prevent unauthorized access. The project improved my understanding of network security, port management, and Linux administration. Overall, I gained hands-on experience in configuring a firewall and learned how simple UFW rules can be used to protect a Linux system.
 
